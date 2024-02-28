@@ -22,8 +22,7 @@ class Hello
     char c = 's';
 
     boolean b = true;*/
-
-    //Assignment operators
+    
     
 
   } 
