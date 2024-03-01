@@ -8,6 +8,6 @@ public class Demo
 
     //boolean result =x < y; //Relational
     boolean result = x>y && a<b; //Logical 
-    System.out.println(result); 
+    System.out.println(result);
   }
 }
