@@ -23,7 +23,15 @@ class Hello
 
     boolean b = true;*/
     
+    //Strings
+    String name = "krishna";
+    name = name + "madhav";
+    System.out.println("Hello "+ name);
     
+    String s1 = "Samsung";
+    String s2 = "Samsung";
+
+    System.out.println(s1 == s2);
 
   } 
 }
