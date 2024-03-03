@@ -24,14 +24,20 @@ class Hello
     boolean b = true;*/
     
     //Strings
-    String name = "krishna";
+    /*String name = "krishna";
     name = name + "madhav";
     System.out.println("Hello "+ name);
     
     String s1 = "Samsung";
     String s2 = "Samsung";
 
-    System.out.println(s1 == s2);
+    System.out.println(s1 == s2);*/
+
+    //Stringbuffer
+    StringBuffer sb = new StringBuffer("Shivani");
+    sb.append(" Maddala");
+
+    System.out.println(sb);
 
   } 
 }
